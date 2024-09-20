@@ -26,6 +26,11 @@ public class Test {
 	{
 		System.out.println("this is m5 method");
 	}
+
+	public void m6()
+	{
+		System.out.println("this is m6 method");
+	}
 	
 	
 	
