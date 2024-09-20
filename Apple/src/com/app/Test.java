@@ -34,7 +34,7 @@ public class Test {
 
 	public void m7()
 	{
-		System.out.println("this is m7 method");
+		System.out.println("Hello World");
 	}
 	
 	
