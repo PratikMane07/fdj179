@@ -31,7 +31,11 @@ public class Test {
 	{
 		System.out.println("this is m6 method");
 	}
-	
+
+	public void m7()
+	{
+		System.out.println("Hello World");
+	}
 	
 	
 
